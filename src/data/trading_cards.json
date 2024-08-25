@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Bitcoin",
+        "price": "5438",
+        "profit_loss": "+0.23",
+        "image_url": "https://cdn3d.iconscout.com/3d/premium/thumb/bitcoin-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--sign-symbol-logo-crypto-miscellaneous-pack-user-interface-illustrations-3364002.png?f=webp"
+    },
+    {
+        "id": 2,
+        "name": "Ethereum",
+        "price": "5438",
+        "profit_loss": "+0.23",
+        "image_url": "https://cdn3d.iconscout.com/3d/premium/thumb/ethereum-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--symbol-sign-logo-crypto-miscellaneous-pack-user-interface-illustrations-3364022.png?f=webp"
+    }
+]

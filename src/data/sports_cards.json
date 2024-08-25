@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "IPL",
+        "desc": "2024",
+        "image_url": "https://cdn3d.iconscout.com/3d/premium/thumb/cricket-3d-icon-download-in-png-blend-fbx-gltf-file-formats--bat-baseball-wicket-match-sports-pack-games-icons-8432051.png?f=webp"
+    },
+    {
+        "id": 2,
+        "name": "Men's world cup",
+        "desc": "Cricket",
+        "image_url": "https://cdn3d.iconscout.com/3d/premium/thumb/cricket-3d-icon-download-in-png-blend-fbx-gltf-file-formats--bat-baseball-wicket-match-sports-pack-games-icons-8432051.png?f=webp"
+    },
+    {
+        "id": 3,
+        "name": "Champion league",
+        "desc": "Football",
+        "image_url": "https://cdn3d.iconscout.com/3d/premium/thumb/football-3d-icon-download-in-png-blend-fbx-gltf-file-formats--rugby-american-goal-dartboard-finance-sports-pack-games-icons-8432048.png?f=webp"
+    }
+]
